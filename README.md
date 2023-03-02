@@ -1,4 +1,4 @@
-# Travelit
+# Travelit 🌍🏖️
 
 This project is a fullstack web application built with the MERN stack (MongoDB, Express.js, React.js, and Node.js). The project is a complete application that showcases how these different technologies work together to build amazing web applications. The project features file upload, authentication, authorization, and deployment to different hosting services.
 
